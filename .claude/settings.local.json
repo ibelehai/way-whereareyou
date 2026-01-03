@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss init -p)",
+      "Bash(supabase start:*)",
+      "Bash(supabase stop:*)",
+      "Bash(supabase status:*)",
+      "Bash(npm run dev:*)"
+    ]
+  }
+}
